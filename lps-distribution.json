@@ -1,0 +1,450 @@
+[
+  {
+    "laconic_address": "laconic1ychwq9mnaj4chmqj0cv5qd6uavv5jfq4yz658s",
+    "placeholder": "Seed Investor 1",
+    "total_lps_allocation": 6480.0,
+    "lock_months": 12.0,
+    "vest_months": null
+  },
+  {
+    "laconic_address": "laconic1ychwq9mnaj4chmqj0cv5qd6uavv5jfq4yz658s",
+    "placeholder": "Seed Investor 2",
+    "total_lps_allocation": 6480.0,
+    "lock_months": 12.0,
+    "vest_months": null
+  },
+  {
+    "laconic_address": "laconic1ychwq9mnaj4chmqj0cv5qd6uavv5jfq4yz658s",
+    "placeholder": "Seed Investor 3",
+    "total_lps_allocation": 6480.0,
+    "lock_months": 12.0,
+    "vest_months": null
+  },
+  {
+    "laconic_address": "laconic1ychwq9mnaj4chmqj0cv5qd6uavv5jfq4yz658s",
+    "placeholder": "Seed Investor 4",
+    "total_lps_allocation": 1361.0,
+    "lock_months": 6.0,
+    "vest_months": null
+  },
+  {
+    "laconic_address": "laconic1ychwq9mnaj4chmqj0cv5qd6uavv5jfq4yz658s",
+    "placeholder": "Team",
+    "total_lps_allocation": 25920.0,
+    "lock_months": null,
+    "vest_months": 36.0
+  },
+  {
+    "laconic_address": "laconic1ychwq9mnaj4chmqj0cv5qd6uavv5jfq4yz658s",
+    "placeholder": "For Sale",
+    "total_lps_allocation": 24559.0,
+    "lock_months": null,
+    "vest_months": null
+  },
+  {
+    "laconic_address": "TBD",
+    "placeholder": "NTSP1",
+    "total_lps_allocation": 129.6,
+    "lock_months": null,
+    "vest_months": null
+  },
+  {
+    "laconic_address": "laconic1t4936h9fa0kqxw5ye9ayvp06k5vet9707ntm09",
+    "placeholder": "",
+    "total_lps_allocation": 1024.0,
+    "lock_months": null,
+    "vest_months": null
+  },
+  {
+    "laconic_address": "laconic1ychwq9mnaj4chmqj0cv5qd6uavv5jfq4yz658s",
+    "placeholder": "Non-testnet SP Remainder",
+    "total_lps_allocation": 5326.4,
+    "lock_months": null,
+    "vest_months": null
+  },
+  {
+    "laconic_address": "laconic1ychwq9mnaj4chmqj0cv5qd6uavv5jfq4yz658s",
+    "placeholder": "Testnet Remainder",
+    "total_lps_allocation": 9659.89521248153,
+    "lock_months": null,
+    "vest_months": null
+  },
+  {
+    "laconic_address": "laconic128vt4we3s044zycwydz9f6amzrlp7r6lnputdg",
+    "placeholder": "",
+    "total_lps_allocation": 485.568163257075,
+    "lock_months": null,
+    "vest_months": null
+  },
+  {
+    "laconic_address": "laconic19h70dln5ktxpc8mcam5nm22glr7h9qtlzvvrtq",
+    "placeholder": "",
+    "total_lps_allocation": 414.236759056674,
+    "lock_months": null,
+    "vest_months": null
+  },
+  {
+    "laconic_address": "laconic195s2w429xuxqagkz54n55dcpfz4nwl0k62qnet",
+    "placeholder": "",
+    "total_lps_allocation": 395.478327502243,
+    "lock_months": null,
+    "vest_months": null
+  },
+  {
+    "laconic_address": "laconic1256aqyag45x84usd6xj053musfcql74j4j3ll3",
+    "placeholder": "",
+    "total_lps_allocation": 163.558393240641,
+    "lock_months": null,
+    "vest_months": null
+  },
+  {
+    "laconic_address": "laconic1mjzrgc8ucspjz98g76c8pce026l5newrujetx0",
+    "placeholder": "",
+    "total_lps_allocation": 172.988072312237,
+    "lock_months": null,
+    "vest_months": null
+  },
+  {
+    "laconic_address": "laconic1f9j8n9rqsekzp0rffe3298pytms4hfz20khge3",
+    "placeholder": "",
+    "total_lps_allocation": 137.107359272441,
+    "lock_months": null,
+    "vest_months": null
+  },
+  {
+    "laconic_address": "laconic1axg567nvu92un33z6z547n7klkeq6ud37pwz35",
+    "placeholder": "",
+    "total_lps_allocation": 114.304453473952,
+    "lock_months": null,
+    "vest_months": null
+  },
+  {
+    "laconic_address": "laconic1vy8tnar3w7zxusnwhp5jdzw97rusr2d6n8ch5c",
+    "placeholder": "",
+    "total_lps_allocation": 83.6163176414838,
+    "lock_months": null,
+    "vest_months": null
+  },
+  {
+    "laconic_address": "laconic1qsvrehuchjquanwm7gsx7cvze8t959l7zf0zpw",
+    "placeholder": "",
+    "total_lps_allocation": 21.0973594395545,
+    "lock_months": null,
+    "vest_months": null
+  },
+  {
+    "laconic_address": "laconic1s03twj8fedmcn04kzt2z35mwy34e7hxnm423sh",
+    "placeholder": "",
+    "total_lps_allocation": 161.45,
+    "lock_months": null,
+    "vest_months": null
+  },
+  {
+    "laconic_address": "laconic16v0lazxvmccs0893g58fqa65m6344dlcpxrvs0",
+    "placeholder": "",
+    "total_lps_allocation": 103.440578336577,
+    "lock_months": null,
+    "vest_months": null
+  },
+  {
+    "laconic_address": "laconic1a2h0eck0dra2fu9xcama9rrygncjc30ex35ly5",
+    "placeholder": "",
+    "total_lps_allocation": 101.548280416612,
+    "lock_months": null,
+    "vest_months": null
+  },
+  {
+    "laconic_address": "laconic1dx3jyjfpcwdwufj5uuufk84f5ugm5h4wf3jsl2",
+    "placeholder": "",
+    "total_lps_allocation": 93.2797612445932,
+    "lock_months": null,
+    "vest_months": null
+  },
+  {
+    "laconic_address": "laconic1f7tursd29yrk3mnys3javqngraj5ls7k5h3vvv",
+    "placeholder": "",
+    "total_lps_allocation": 84.1679353908511,
+    "lock_months": null,
+    "vest_months": null
+  },
+  {
+    "laconic_address": "laconic14vzrlac5zte5nju9fm0ktzfz7e4zss74f6lpzx",
+    "placeholder": "",
+    "total_lps_allocation": 81.10323549873459,
+    "lock_months": null,
+    "vest_months": null
+  },
+  {
+    "laconic_address": "laconic1nmuxuz3z2xj5fqf2sz5nn0u2r2al7mutsl8pm7",
+    "placeholder": "",
+    "total_lps_allocation": 76.6810175336002,
+    "lock_months": null,
+    "vest_months": null
+  },
+  {
+    "laconic_address": "laconic18uc9h349nd0w62vnleu8ywu3sur7ly0kdsgmg3",
+    "placeholder": "",
+    "total_lps_allocation": 75.4880471057965,
+    "lock_months": null,
+    "vest_months": null
+  },
+  {
+    "laconic_address": "laconic1360txwdlk4z0604vd22dcarxt9w3ddj8d8mz8m",
+    "placeholder": "",
+    "total_lps_allocation": 74.8709934362428,
+    "lock_months": null,
+    "vest_months": null
+  },
+  {
+    "laconic_address": "laconic1wrwl5557yxgqkwq4djlrz33x5nd5f0j9vh42jg",
+    "placeholder": "",
+    "total_lps_allocation": 74.6344561962473,
+    "lock_months": null,
+    "vest_months": null
+  },
+  {
+    "laconic_address": "laconic1ka6xtcejersljsmslc6tw9uxvfmans476v98r0",
+    "placeholder": "",
+    "total_lps_allocation": 73.1946643006221,
+    "lock_months": null,
+    "vest_months": null
+  },
+  {
+    "laconic_address": "laconic1ljwtpta6xfgtnk0e03h4t77chjygv399pr6utz",
+    "placeholder": "",
+    "total_lps_allocation": 73.1226747058408,
+    "lock_months": null,
+    "vest_months": null
+  },
+  {
+    "laconic_address": "laconic1vfs90x57ufs87tn9h6zs3xylnzh97f03qy0ggz",
+    "placeholder": "",
+    "total_lps_allocation": 73.0404008832337,
+    "lock_months": null,
+    "vest_months": null
+  },
+  {
+    "laconic_address": "laconic1qw26grwct7xtjdrlseurh9v6g8wu2x3vded63g",
+    "placeholder": "",
+    "total_lps_allocation": 15.7449254535657,
+    "lock_months": null,
+    "vest_months": null
+  },
+  {
+    "laconic_address": "laconic1r70vhqwvf7dw2twy6m77f34fzeshp9fqxtxace",
+    "placeholder": "",
+    "total_lps_allocation": 11.5940362852524,
+    "lock_months": null,
+    "vest_months": null
+  },
+  {
+    "laconic_address": "laconic1nezjpcfflf8nc5yt2hx5yd20ry6ka066tth38w",
+    "placeholder": "",
+    "total_lps_allocation": 11.5940362852524,
+    "lock_months": null,
+    "vest_months": null
+  },
+  {
+    "laconic_address": "laconic1xwwy9944lgu3djvgmk4l4x59x5cjzczcxuj9f5",
+    "placeholder": "",
+    "total_lps_allocation": 11.3786599604814,
+    "lock_months": null,
+    "vest_months": null
+  },
+  {
+    "laconic_address": "laconic1kkv020aj5z8es9shrylvlcjfextm2srg0085ml",
+    "placeholder": "",
+    "total_lps_allocation": 9.83186635530807,
+    "lock_months": null,
+    "vest_months": null
+  },
+  {
+    "laconic_address": "laconic1qrss36gx7rx58uffn60lx99fr0d929566mpafj",
+    "placeholder": "",
+    "total_lps_allocation": 9.83186635530807,
+    "lock_months": null,
+    "vest_months": null
+  },
+  {
+    "laconic_address": "laconic1g3dugtdlardfg28teljfzftzfeynjheae07ytr",
+    "placeholder": "",
+    "total_lps_allocation": 8.26549308424645,
+    "lock_months": null,
+    "vest_months": null
+  },
+  {
+    "laconic_address": "laconic1rcssfrp47s0xmg2vahshmf6zcaadqamjel2a7r",
+    "placeholder": "",
+    "total_lps_allocation": 6.07257050476019,
+    "lock_months": null,
+    "vest_months": null
+  },
+  {
+    "laconic_address": "laconic1jeylpuu59d4a5qynj8xm99ssgmk7w5w95n6q00",
+    "placeholder": "",
+    "total_lps_allocation": 4.15376324770972,
+    "lock_months": null,
+    "vest_months": null
+  },
+  {
+    "laconic_address": "laconic17njvfpqxv6nc6ky5yvkk5g2r35tlvkqk4x0as9",
+    "placeholder": "",
+    "total_lps_allocation": 4.15376324770972,
+    "lock_months": null,
+    "vest_months": null
+  },
+  {
+    "laconic_address": "laconic1hw5vr47nl4876nd728vcy4m44j57un67guldlv",
+    "placeholder": "",
+    "total_lps_allocation": 4.15376324770972,
+    "lock_months": null,
+    "vest_months": null
+  },
+  {
+    "laconic_address": "laconic1nthmxgdtf58mntuukz4r5v0ry6zctl2ve9aqpe",
+    "placeholder": "",
+    "total_lps_allocation": 4.15376324770972,
+    "lock_months": null,
+    "vest_months": null
+  },
+  {
+    "laconic_address": "laconic17zcxj4fyaef42da7pk0ccqxz2a8fns5fxs2qlr",
+    "placeholder": "",
+    "total_lps_allocation": 4.15376324770972,
+    "lock_months": null,
+    "vest_months": null
+  },
+  {
+    "laconic_address": "laconic1l7tc37faxf9knl9rxmkfzc26dchnrtzvderurf",
+    "placeholder": "",
+    "total_lps_allocation": 4.15376324770972,
+    "lock_months": null,
+    "vest_months": null
+  },
+  {
+    "laconic_address": "laconic1aahpp8vknsq72vamrfgnn86m4ple5xqnd5dydz",
+    "placeholder": "",
+    "total_lps_allocation": 4.15376324770972,
+    "lock_months": null,
+    "vest_months": null
+  },
+  {
+    "laconic_address": "laconic12wrfzczt0qgknjv9nle4uczujpqxrkj7p4v9uj",
+    "placeholder": "",
+    "total_lps_allocation": 4.15376324770972,
+    "lock_months": null,
+    "vest_months": null
+  },
+  {
+    "laconic_address": "laconic1z3syuquq0gdhvhtjs75lcsrpplm79ycxjtdge6",
+    "placeholder": "",
+    "total_lps_allocation": 3.95796658882702,
+    "lock_months": null,
+    "vest_months": null
+  },
+  {
+    "laconic_address": "laconic122mal2jwd9x2vfxrpxtd9vdz85ksggeq0tlle5",
+    "placeholder": "",
+    "total_lps_allocation": 3.95796658882702,
+    "lock_months": null,
+    "vest_months": null
+  },
+  {
+    "laconic_address": "laconic15y76s0ml2dfzef3y07x6hmcngtcaw59d8y2sls",
+    "placeholder": "",
+    "total_lps_allocation": 3.60553260283815,
+    "lock_months": null,
+    "vest_months": null
+  },
+  {
+    "laconic_address": "laconic1yavpc0fjk3ze33kfuuc5fra5x3nzs20ajhpef5",
+    "placeholder": "",
+    "total_lps_allocation": 3.29225794862583,
+    "lock_months": null,
+    "vest_months": null
+  },
+  {
+    "laconic_address": "laconic1qzwl52vns3gecngsh59y5yvg9a8m345dz2qv8x",
+    "placeholder": "",
+    "total_lps_allocation": 3.29225794862583,
+    "lock_months": null,
+    "vest_months": null
+  },
+  {
+    "laconic_address": "laconic1nr6z78gkf6swk9m02qtdazde7jr9csetv402wr",
+    "placeholder": "",
+    "total_lps_allocation": 2.78318663553081,
+    "lock_months": null,
+    "vest_months": null
+  },
+  {
+    "laconic_address": "laconic17uukytqarpu6wsmjcqgfcs2tjhwhfu6eq72cpw",
+    "placeholder": "",
+    "total_lps_allocation": 2.78318663553081,
+    "lock_months": null,
+    "vest_months": null
+  },
+  {
+    "laconic_address": "laconic17g9ytaauphqv5lawthk2hj9n04eardz28yvnfk",
+    "placeholder": "",
+    "total_lps_allocation": 2.78318663553081,
+    "lock_months": null,
+    "vest_months": null
+  },
+  {
+    "laconic_address": "laconic16pxr8lupfcswatynedc76ynw5f74jpcmjt28vs",
+    "placeholder": "",
+    "total_lps_allocation": 2.78318663553081,
+    "lock_months": null,
+    "vest_months": null
+  },
+  {
+    "laconic_address": "laconic1xnvd8fdr5zwfa2thdlr2pg22ndg4e0dptqfav9",
+    "placeholder": "",
+    "total_lps_allocation": 2.78318663553081,
+    "lock_months": null,
+    "vest_months": null
+  },
+  {
+    "laconic_address": "laconic1qykx88yyy3a6udmqfu3aej40rymklnynfr5cq8",
+    "placeholder": "",
+    "total_lps_allocation": 2.78318663553081,
+    "lock_months": null,
+    "vest_months": null
+  },
+  {
+    "laconic_address": "laconic1qjjvdwlt2u5cgmaxn6l66nwnqw9fs4vl7g045h",
+    "placeholder": "",
+    "total_lps_allocation": 2.78318663553081,
+    "lock_months": null,
+    "vest_months": null
+  },
+  {
+    "laconic_address": "laconic1mdzgqw7re2fuws0uycpm90nt07d6ntsk5alt4j",
+    "placeholder": "",
+    "total_lps_allocation": 2.78318663553081,
+    "lock_months": null,
+    "vest_months": null
+  },
+  {
+    "laconic_address": "laconic157jy998f0x2m0kms8r6mmfs3zazljpd0svd9ne",
+    "placeholder": "",
+    "total_lps_allocation": 2.78318663553081,
+    "lock_months": null,
+    "vest_months": null
+  },
+  {
+    "laconic_address": "laconic1rdtz32xsgw7yrjfrue36pglevpymc5aflu4cfy",
+    "placeholder": "",
+    "total_lps_allocation": 2.78318663553081,
+    "lock_months": null,
+    "vest_months": null
+  },
+  {
+    "laconic_address": "laconic14dzwrzdfgln6z2vuu0jncvwjt2l7e4yl7slmjq",
+    "placeholder": "",
+    "total_lps_allocation": 2.64612897431292,
+    "lock_months": null,
+    "vest_months": null
+  }
+]
